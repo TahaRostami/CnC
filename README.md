@@ -9,7 +9,7 @@ Armin Biere).
 Resolved Issue
 ============
 
-I was unable to compile the project. Curtis Bright told me how I can change something in the march_cu/MakeFile to things work correctly. Here, I updated the MakeFile that way. However, in order to compile the project, one still may need to use some specific versions of gcc that I will mention below. 
+I was unable to compile the project. Curtis Bright told me how I can change something in the march_cu/MakeFile to make things work correctly. Here, I updated the MakeFile that way. However, in order to compile the project, one still may need to use some specific versions of gcc that I will mention below. 
 
 Installation
 ============
