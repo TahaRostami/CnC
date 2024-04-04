@@ -9,12 +9,21 @@ Armin Biere).
 Installation
 ============
 
-Build the code using: ./build.sh
+Install gcc 10.5.0 (I failed to compile with gcc 11+ on Ubuntu)
+
+cd march_cu
+
+make
+
+./march_cu -h
+
+
+<!---Build the code using: ./build.sh
 
 This command will compile the solvers march_cu, iglucose (version 3.0), 
 and ilingeling (version bjc). 
 
-Cleaning up the repository can simply be done by: ./build.sh clean
+Cleaning up the repository can simply be done by: ./build.sh clean --->
 
 Solving
 =======
